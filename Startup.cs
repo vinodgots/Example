@@ -16,6 +16,7 @@ using ExpMusicStore.DTO.Authentication;
 
 namespace ExpMusicStore
 {
+    //first comment added
     public class Startup
     {
         public Startup(IConfiguration configuration)
